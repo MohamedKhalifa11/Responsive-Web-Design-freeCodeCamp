@@ -1,5 +1,3 @@
-# Responsive-Web-Design-freeCodeCamp
-
 # freeCodeCamp Responsive Web Design Certification Projects
 
 This repository contains the projects completed as part of the freeCodeCamp Responsive Web Design Certification. Each project is designed to showcase different skills and concepts in web development.
